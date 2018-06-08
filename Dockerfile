@@ -1,2 +1,2 @@
-FROM httpd
+FROM ruby
 CMD  ["echo", "simisi "]
