@@ -1,2 +1,2 @@
 FROM alpine
-CMD  ["echo", "simisi "]
+CMD  ["sleep", "100000"]
