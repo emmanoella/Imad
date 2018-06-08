@@ -1,2 +1,2 @@
-FROM alpine
-CMD  ["echo", "simisi "]
+FROM httpd
+CMD  ["sleep", "10000"]
